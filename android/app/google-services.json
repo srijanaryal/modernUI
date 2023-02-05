@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461718940925",
+    "project_id": "signup-ad5b5",
+    "storage_bucket": "signup-ad5b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461718940925:android:ffeada0d80b691c3ae6294",
+        "android_client_info": {
+          "package_name": "com.example.calculatar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461718940925-5g8vctjtgr4hpgfl3f7lfru7a1ri1jir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbPBr3oOQvEkHJSGqqBHe8V4uAiouroik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461718940925-5g8vctjtgr4hpgfl3f7lfru7a1ri1jir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
